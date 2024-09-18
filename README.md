@@ -64,5 +64,6 @@ Hyperparameter Tuning: Exploring grid search and other optimization techniques t
 Feel free to fork this project and submit pull requests for any improvements, whether it's for model performance, code optimization, or adding new features.
 
 
+Author : Moghees Hashmi
 LinkedIn : https://www.linkedin.com/in/moghees-hashmi/
 Email : hashmihaizal7238@gmail.com
